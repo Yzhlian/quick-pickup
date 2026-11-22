@@ -1,0 +1,14 @@
+**/dist/
+**/build/
+**/.hvigor/
+**/.idea/
+**/oh_modules/
+**/local.properties
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.p7b
+*.cer
+*.pem
+*.key

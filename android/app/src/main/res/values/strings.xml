@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一键取件</string>
+    <string name="open_failed">无法打开拼多多身份码</string>
+    <string name="fallback_help">请确认已安装并更新拼多多。也可以复制驿站链接，到微信里打开。</string>
+    <string name="copy_station_link">复制链接</string>
+    <string name="station_link">驿站身份码入口</string>
+    <string name="link_copied">链接已复制</string>
+</resources>
